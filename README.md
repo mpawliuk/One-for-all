@@ -3,7 +3,7 @@
 It comes from this 2003 article "[One for All](https://magic.wizards.com/en/articles/archive/making-magic/one-all-2003-10-13)" by Mark Rosewater. The rules are:
 
 > 1. "All decks must be exactly sixty cards."
-> 2. "All decks may only use one card. That is it must have exactly sixty copies of the same card."
+> 2. "All decks may only use one card. That is it must have exactly sixty copies of the same card."    
 > "The goal is to design as many decks as you can that can beat the control deck. The control deck is made up of sixty-five Maros. The deck needs to be able to win regardless of if it plays or draws."
 
 Maro is essentially a blank card.
